@@ -6,7 +6,8 @@ Source code file is in Snake-2D-game/Snake2D/SourceCode/ folder.
 # How to run
 Run "game.exe" in Snake-2D-game/Snake2D <br>
 Or run the "development.exe" and select "snake.rb" in Snake-2D-game/Snake2D/SourceCode/ folder.
-<br>
+<br><br>
+
 # Screenshot
 Preview of the game<br><br>
 <img width="227" alt="snake" src="https://user-images.githubusercontent.com/69473375/133964179-38a3897d-e3d0-4251-827e-303d908a97f7.PNG"><br><br>
